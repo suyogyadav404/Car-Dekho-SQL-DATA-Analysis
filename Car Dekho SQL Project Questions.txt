@@ -1,0 +1,9 @@
+MySQL Project:  Second Hand Car Dealer ( Car Dekho )
+
+1. Read the data
+2. Total Cars: To the get the count of total records.
+3. The manager asked the employeer how many cars will be available in the year 2023?
+4. How many cars are available in 2020, 2021, 2022?
+5. Client asked me to print total of all cars by the year. I don't see all the details.
+6. Client asked to the car dealer that how many diesel cars was available in 2020?
+7. How many petrol cars are available in the year 2020?
